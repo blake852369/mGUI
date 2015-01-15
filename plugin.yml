@@ -1,0 +1,7 @@
+name: mGUI
+main: me.blake852369.GuiCore
+version: 1.0
+commands:
+    manage:
+        description: manages online players
+        usage: /<command>
